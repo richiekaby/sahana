@@ -1,0 +1,920 @@
+{
+  "showInStockOnly": true,
+  "isPersonalised": false,
+  "products": [
+    {
+      "productId": "5609747",
+      "type": "product",
+      "title": "HP OfficeJet Pro 9014e All-in-One Wireless Printer & Fax Machine with Touch Screen, HP+ Enabled & HP Instant Ink Compatible, White & Grey",
+      "code": "89521106",
+      "averageRating": 3,
+      "reviews": 4,
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/239894500?",
+      "alternativeImageUrls": [
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894500alt1",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894500alt2",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894500alt3",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894500alt4",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894500alt6",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894500alt7",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894500alt8",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894500alt9",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894500alt5"
+      ],
+      "displaySpecialOffer": "",
+      "nonPromoMessage": "",
+      "defaultSkuId": "239894500",
+      "defaultVariantId": "82db9f65-6828-5084-bd13-48561bc48b57",
+      "colorSwatches": [
+        {
+          "color": "White & Grey",
+          "basicColor": "White",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/239894500?cropN=0.42105263157894735,0.42105263157894735,0.16842105263157894,0.16842105263157894",
+          "imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/239894500?",
+          "isAvailable": true,
+          "skuId": "239894500",
+          "id": "82db9f65-6828-5084-bd13-48561bc48b57",
+          "isColorOfDefaultVariant": true
+        }
+      ],
+      "outOfStock": false,
+      "isAvailableToOrder": true,
+      "emailMeWhenAvailable": false,
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": false,
+      "brand": "HP",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "dynamicAttributes": {
+        "functions": "Print, Copy, Scan and Fax",
+        "memorycardslot": "NO",
+        "compatibleinks": "HP 963 range",
+        "range": "HP OfficeJet Pro",
+        "doublesidedprinting": "Automatic",
+        "printingresolution": "1200 x 1200 rendered dpi, Up to 4800 x 1200 optimised dpi on HP Advance Photo Paper 1200 x 1200 dpi input",
+        "producttype1": "Printers",
+        "paperformat": "Plain Paper, HP Photo Papers, HP Matte Brochure or Professional Paper, HP Matte Presentation Paper, HP Glossy Brochure or Professional Paper, Other Photo Inkjet Papers, Other Matte Inkjet Papers, Other Glossy Inkjet Papers, Thick, Light/Recycled",
+        "ports": "1 x USB 2.0, 1 x Host USB, 1 x Ethernet, 2 x RJ-11 modem ports",
+        "creditofferingids": "null",
+        "accessoriesincluded": "Setup Ink cartridges, Power cord, Setup poster, Reference guide",
+        "scanningresolution": "Up to 1200 dpi",
+        "mobileprintingservices": "Yes, via Wi-Fi",
+        "papertraycapacity": "Up to 250 sheets of plain paper",
+        "modelnamenumber": "OfficeJet Pro 9014e",
+        "brand": "HP",
+        "connections": "USB",
+        "papersize": "A4, A5, A6, B5 (JIS), Envelope (DL, C5, C6), Card",
+        "connectivitytype": "Wi-Fi",
+        "manufacturerpartnumbermpn": "22A56B",
+        "printertechnology": "Inkjet",
+        "truecolour": "White & Grey",
+        "directprinting": "YES",
+        "printtechnology": "Inkjet",
+        "printspeed": "up to 22 ppm (black) and 18 ppm (colour)",
+        "weight": "8.95kg",
+        "nfc": "No NFC Payment method",
+        "wirelessenabled": "YES",
+        "printerfeature": "All-In-One",
+        "accessoriesproducttype": "Computer Accessories",
+        "colour": "White",
+        "homeappliancetype": "Printers",
+        "crediteligibilitystatus": "Add On",
+        "borderlessprinting": "YES",
+        "displayscreen": "6.75cm touchscreen control panel with colour graphic display",
+        "dimensions": "H27.8 x W43.9 x D32.5cm",
+        "automaticdocumentfeeder": "YES"
+      },
+      "futureRelease": false,
+      "multiSku": false,
+      "fabricByLength": false,
+      "messaging": [],
+      "variantPriceRange": {
+        "display": {
+          "max": "£209.99",
+          "min": "£209.99"
+        },
+        "for": "ITEM",
+        "reductionHistory": [],
+        "value": {
+          "max": "209.99",
+          "min": "209.99"
+        }
+      },
+      "services": [
+        {
+          "__typename": "IncludedGuarantee",
+          "title": "2 year guarantee included",
+          "automaticallyIncluded": true
+        }
+      ],
+      "attributes": [
+        {
+          "key": "accessoriesincluded",
+          "values": [
+            "Setup Ink cartridges, Power cord, Setup poster, Reference guide"
+          ],
+          "displayName": "Accessories Included"
+        },
+        {
+          "key": "automaticdocumentfeeder",
+          "values": [
+            "YES"
+          ],
+          "displayName": "Automatic Document Feeder"
+        },
+        {
+          "key": "borderlessprinting",
+          "values": [
+            "YES"
+          ],
+          "displayName": "Borderless Printing"
+        },
+        {
+          "key": "brand",
+          "values": [
+            "HP"
+          ],
+          "displayName": "Brand"
+        },
+        {
+          "key": "compatibleinks",
+          "values": [
+            "HP 963 range"
+          ],
+          "displayName": "Compatible Inks"
+        },
+        {
+          "key": "connections",
+          "values": [
+            "USB"
+          ],
+          "displayName": "Connections"
+        },
+        {
+          "key": "connectivitytype",
+          "values": [
+            "Wi-Fi"
+          ],
+          "displayName": "Connectivity Type"
+        },
+        {
+          "key": "dimensions",
+          "values": [
+            "H27.8 x W43.9 x D32.5cm"
+          ],
+          "displayName": "Dimensions"
+        },
+        {
+          "key": "directprinting",
+          "values": [
+            "YES"
+          ],
+          "displayName": "Direct printing"
+        },
+        {
+          "key": "displayscreen",
+          "values": [
+            "6.75cm touchscreen control panel with colour graphic display"
+          ],
+          "displayName": "Display"
+        },
+        {
+          "key": "doublesidedprinting",
+          "values": [
+            "Automatic"
+          ],
+          "displayName": "Double sided printing"
+        },
+        {
+          "key": "functions",
+          "values": [
+            "Print, Copy, Scan and Fax"
+          ],
+          "displayName": "Functions"
+        },
+        {
+          "key": "manufacturerpartnumbermpn",
+          "values": [
+            "22A56B"
+          ],
+          "displayName": "Manufacturer Part Number (MPN)"
+        },
+        {
+          "key": "memorycardslot",
+          "values": [
+            "NO"
+          ],
+          "displayName": "Memory Card Slots"
+        },
+        {
+          "key": "mobileprintingservices",
+          "values": [
+            "Yes, via Wi-Fi"
+          ],
+          "displayName": "Mobile printing services"
+        },
+        {
+          "key": "modelnamenumber",
+          "values": [
+            "OfficeJet Pro 9014e"
+          ],
+          "displayName": "Model name / number"
+        },
+        {
+          "key": "nfc",
+          "values": [
+            "No NFC Payment method"
+          ],
+          "displayName": "NFC Payment Enabled"
+        },
+        {
+          "key": "paperformat",
+          "values": [
+            "Plain Paper, HP Photo Papers, HP Matte Brochure or Professional Paper, HP Matte Presentation Paper, HP Glossy Brochure or Professional Paper, Other Photo Inkjet Papers, Other Matte Inkjet Papers, Other Glossy Inkjet Papers, Thick, Light/Recycled"
+          ],
+          "displayName": "Paper format"
+        },
+        {
+          "key": "papersize",
+          "values": [
+            "A4, A5, A6, B5 (JIS), Envelope (DL, C5, C6), Card"
+          ],
+          "displayName": "Paper size"
+        },
+        {
+          "key": "papertraycapacity",
+          "values": [
+            "Up to 250 sheets of plain paper"
+          ],
+          "displayName": "Paper tray capacity"
+        },
+        {
+          "key": "ports",
+          "values": [
+            "1 x USB 2.0, 1 x Host USB, 1 x Ethernet, 2 x RJ-11 modem ports"
+          ],
+          "displayName": "Ports"
+        },
+        {
+          "key": "printingresolution",
+          "values": [
+            "1200 x 1200 rendered dpi, Up to 4800 x 1200 optimised dpi on HP Advance Photo Paper 1200 x 1200 dpi input"
+          ],
+          "displayName": "Printing resolution"
+        },
+        {
+          "key": "printspeed",
+          "values": [
+            "up to 22 ppm (black) and 18 ppm (colour)"
+          ],
+          "displayName": "Printing speed"
+        },
+        {
+          "key": "printtechnology",
+          "values": [
+            "Inkjet"
+          ],
+          "displayName": "Print technology"
+        },
+        {
+          "key": "range",
+          "values": [
+            "HP OfficeJet Pro "
+          ],
+          "displayName": "Range"
+        },
+        {
+          "key": "scanningresolution",
+          "values": [
+            "Up to 1200 dpi"
+          ],
+          "displayName": "Scanning resolution"
+        },
+        {
+          "key": "weight",
+          "values": [
+            "8.95kg"
+          ],
+          "displayName": "Weight"
+        },
+        {
+          "key": "wirelessenabled",
+          "values": [
+            "YES"
+          ],
+          "displayName": "Wi-Fi Enabled"
+        }
+      ],
+      "hiddenAttributes": [
+        {
+          "key": "accessoriesproducttype",
+          "values": [
+            "Computer Accessories"
+          ],
+          "displayName": "Shop by Category"
+        },
+        {
+          "key": "colour",
+          "values": [
+            "White"
+          ],
+          "displayName": "Colour"
+        },
+        {
+          "key": "crediteligibilitystatus",
+          "values": [
+            "Add On"
+          ],
+          "displayName": "Credit Eligibility Status"
+        },
+        {
+          "key": "creditofferingids",
+          "values": [
+            "null"
+          ],
+          "displayName": "Credit Offering IDs"
+        },
+        {
+          "key": "homeappliancetype",
+          "values": [
+            "Printers"
+          ],
+          "displayName": "Type"
+        },
+        {
+          "key": "printerfeature",
+          "values": [
+            "All-In-One",
+            "Duplex Printing",
+            "Mobile Printing",
+            "Scan"
+          ],
+          "displayName": "Printer Feature"
+        },
+        {
+          "key": "printertechnology",
+          "values": [
+            "Inkjet"
+          ],
+          "displayName": "Printer Type"
+        },
+        {
+          "key": "producttype1",
+          "values": [
+            "Printers"
+          ],
+          "displayName": "Product Type"
+        },
+        {
+          "key": "truecolour",
+          "values": [
+            "White & Grey"
+          ],
+          "displayName": "Colour"
+        }
+      ],
+      "permanentOos": false,
+      "defaultParentCategory": {
+        "id": "80000443",
+        "name": "Printers"
+      }
+    },
+    {
+      "productId": "5549824",
+      "type": "product",
+      "title": "HP OfficeJet Pro 8022e All-in-One Wireless Printer with Touch Screen, HP+ Enabled & HP Instant Ink Compatible, White & Grey",
+      "code": "89521105",
+      "averageRating": 3.9,
+      "reviews": 19,
+      "image": "//johnlewis.scene7.com/is/image/JohnLewis/239894496?",
+      "alternativeImageUrls": [
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt1",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt2",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt3",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt4",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt5",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt6",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt7",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt8",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt9",
+        "//johnlewis.scene7.com/is/image/JohnLewis/239894496alt10"
+      ],
+      "displaySpecialOffer": "",
+      "nonPromoMessage": "",
+      "defaultSkuId": "239894496",
+      "defaultVariantId": "c83ce97a-4ee0-5bb7-bac7-706fca8fc95d",
+      "colorSwatches": [
+        {
+          "color": "White & Grey",
+          "basicColor": "White",
+          "colorSwatchUrl": "//johnlewis.scene7.com/is/image/JohnLewis/239894496?cropN=0.42105263157894735,0.42105263157894735,0.16842105263157894,0.16842105263157894",
+          "imageUrl": "//johnlewis.scene7.com/is/image/JohnLewis/239894496?",
+          "isAvailable": true,
+          "skuId": "239894496",
+          "id": "c83ce97a-4ee0-5bb7-bac7-706fca8fc95d",
+          "isColorOfDefaultVariant": true
+        }
+      ],
+      "outOfStock": false,
+      "isAvailableToOrder": true,
+      "emailMeWhenAvailable": false,
+      "compare": true,
+      "fabric": "",
+      "swatchAvailable": false,
+      "brand": "HP",
+      "ageRestriction": 0,
+      "isInStoreOnly": false,
+      "isMadeToMeasure": false,
+      "isBundle": false,
+      "isProductSet": false,
+      "dynamicAttributes": {
+        "functions": "Print, copy, scan, fax",
+        "memorycardslot": "NO",
+        "compatibleinks": "HP 912 range",
+        "range": "OfficeJet Pro",
+        "doublesidedprinting": "Automatic",
+        "printingresolution": "4800 x 1200 dpi",
+        "producttype1": "Printers",
+        "paperformat": "Envelopes, plain paper, recycled paper, photo paper, light weight paper, glossy paper, matte paper",
+        "ports": "1 x Ethernet, 1 x Fax port",
+        "creditofferingids": "null",
+        "accessoriesincluded": "Setup Ink cartridges, Power cord, Guide",
+        "scanningresolution": "Up to 1200 dpi",
+        "mobileprintingservices": "Apple AirPrint, Wi-Fi Direct, Mopria, HP Smart",
+        "papertraycapacity": "Up to 225 sheets of plain paper",
+        "modelnamenumber": "OfficeJet Pro 8022e",
+        "brand": "HP",
+        "connections": "Wi-Fi, Ethernet",
+        "papersize": "A4, A5, A6, B5(JIS), Card A4, Photo (13 x 18 cm, 10 x 15 cm), Envelope (A2, C5, C6, DL)",
+        "connectivitytype": "Wi-Fi",
+        "manufacturerpartnumbermpn": "229W7B",
+        "printertechnology": "Inkjet",
+        "truecolour": "White & Grey",
+        "directprinting": "YES",
+        "printtechnology": "Inkjet",
+        "printspeed": "20 ppm (black) and 10 ppm (colour)",
+        "weight": "8.2kg",
+        "nfc": "No NFC Payment method",
+        "wirelessenabled": "YES",
+        "printerfeature": "All-In-One",
+        "accessoriesproducttype": "Computer Accessories",
+        "colour": "White",
+        "unpackagedweight": "8.2000",
+        "homeappliancetype": "Printers",
+        "crediteligibilitystatus": "Add On",
+        "borderlessprinting": "YES",
+        "displayscreen": "6.86cm touchscreen control panel",
+        "dimensions": "H23.4 x W46 x D34.1cm",
+        "automaticdocumentfeeder": "YES"
+      },
+      "futureRelease": false,
+      "multiSku": false,
+      "fabricByLength": false,
+      "messaging": [],
+      "variantPriceRange": {
+        "display": {
+          "max": "£189.99",
+          "min": "£189.99"
+        },
+        "for": "ITEM",
+        "reductionHistory": [],
+        "value": {
+          "max": "189.99",
+          "min": "189.99"
+        }
+      },
+      "services": [
+        {
+          "__typename": "IncludedGuarantee",
+          "title": "2 year guarantee included",
+          "automaticallyIncluded": true
+        }
+      ],
+      "attributes": [
+        {
+          "key": "accessoriesincluded",
+          "values": [
+            "Setup Ink cartridges, Power cord, Guide"
+          ],
+          "displayName": "Accessories Included"
+        },
+        {
+          "key": "automaticdocumentfeeder",
+          "values": [
+            "YES"
+          ],
+          "displayName": "Automatic Document Feeder"
+        },
+        {
+          "key": "borderlessprinting",
+          "values": [
+            "YES"
+          ],
+          "displayName": "Borderless Printing"
+        },
+        {
+          "key": "brand",
+          "values": [
+            "HP"
+          ],
+          "displayName": "Brand"
+        },
+        {
+          "key": "compatibleinks",
+          "values": [
+            "HP 912 range"
+          ],
+          "displayName": "Compatible Inks"
+        },
+        {
+          "key": "connections",
+          "values": [
+            "Wi-Fi, Ethernet"
+          ],
+          "displayName": "Connections"
+        },
+        {
+          "key": "connectivitytype",
+          "values": [
+            "Wi-Fi"
+          ],
+          "displayName": "Connectivity Type"
+        },
+        {
+          "key": "dimensions",
+          "values": [
+            "H23.4 x W46 x D34.1cm"
+          ],
+          "displayName": "Dimensions"
+        },
+        {
+          "key": "directprinting",
+          "values": [
+            "YES"
+          ],
+          "displayName": "Direct printing"
+        },
+        {
+          "key": "displayscreen",
+          "values": [
+            "6.86cm touchscreen control panel"
+          ],
+          "displayName": "Display"
+        },
+        {
+          "key": "doublesidedprinting",
+          "values": [
+            "Automatic"
+          ],
+          "displayName": "Double sided printing"
+        },
+        {
+          "key": "functions",
+          "values": [
+            "Print, copy, scan, fax"
+          ],
+          "displayName": "Functions"
+        },
+        {
+          "key": "manufacturerpartnumbermpn",
+          "values": [
+            "229W7B"
+          ],
+          "displayName": "Manufacturer Part Number (MPN)"
+        },
+        {
+          "key": "memorycardslot",
+          "values": [
+            "NO"
+          ],
+          "displayName": "Memory Card Slots"
+        },
+        {
+          "key": "mobileprintingservices",
+          "values": [
+            "Apple AirPrint, Wi-Fi Direct, Mopria, HP Smart"
+          ],
+          "displayName": "Mobile printing services"
+        },
+        {
+          "key": "modelnamenumber",
+          "values": [
+            "OfficeJet Pro 8022e"
+          ],
+          "displayName": "Model name / number"
+        },
+        {
+          "key": "nfc",
+          "values": [
+            "No NFC Payment method"
+          ],
+          "displayName": "NFC Payment Enabled"
+        },
+        {
+          "key": "paperformat",
+          "values": [
+            "Envelopes, plain paper, recycled paper, photo paper, light weight paper, glossy paper, matte paper"
+          ],
+          "displayName": "Paper format"
+        },
+        {
+          "key": "papersize",
+          "values": [
+            "A4, A5, A6, B5(JIS), Card A4, Photo (13 x 18 cm, 10 x 15 cm), Envelope (A2, C5, C6, DL)"
+          ],
+          "displayName": "Paper size"
+        },
+        {
+          "key": "papertraycapacity",
+          "values": [
+            "Up to 225 sheets of plain paper"
+          ],
+          "displayName": "Paper tray capacity"
+        },
+        {
+          "key": "ports",
+          "values": [
+            "1 x Ethernet, 1 x Fax port"
+          ],
+          "displayName": "Ports"
+        },
+        {
+          "key": "printingresolution",
+          "values": [
+            "4800 x 1200 dpi"
+          ],
+          "displayName": "Printing resolution"
+        },
+        {
+          "key": "printspeed",
+          "values": [
+            "20 ppm (black) and 10 ppm (colour)"
+          ],
+          "displayName": "Printing speed"
+        },
+        {
+          "key": "printtechnology",
+          "values": [
+            "Inkjet"
+          ],
+          "displayName": "Print technology"
+        },
+        {
+          "key": "range",
+          "values": [
+            "OfficeJet Pro"
+          ],
+          "displayName": "Range"
+        },
+        {
+          "key": "scanningresolution",
+          "values": [
+            "Up to 1200 dpi"
+          ],
+          "displayName": "Scanning resolution"
+        },
+        {
+          "key": "unpackagedweight",
+          "values": [
+            "8.2000"
+          ],
+          "displayName": "Weight"
+        },
+        {
+          "key": "weight",
+          "values": [
+            "8.2kg"
+          ],
+          "displayName": "Weight"
+        },
+        {
+          "key": "wirelessenabled",
+          "values": [
+            "YES"
+          ],
+          "displayName": "Wi-Fi Enabled"
+        }
+      ],
+      "hiddenAttributes": [
+        {
+          "key": "accessoriesproducttype",
+          "values": [
+            "Computer Accessories"
+          ],
+          "displayName": "Shop by Category"
+        },
+        {
+          "key": "colour",
+          "values": [
+            "White"
+          ],
+          "displayName": "Colour"
+        },
+        {
+          "key": "crediteligibilitystatus",
+          "values": [
+            "Add On"
+          ],
+          "displayName": "Credit Eligibility Status"
+        },
+        {
+          "key": "creditofferingids",
+          "values": [
+            "null"
+          ],
+          "displayName": "Credit Offering IDs"
+        },
+        {
+          "key": "homeappliancetype",
+          "values": [
+            "Printers"
+          ],
+          "displayName": "Type"
+        },
+        {
+          "key": "printerfeature",
+          "values": [
+            "All-In-One",
+            "Mobile Printing",
+            "Scan"
+          ],
+          "displayName": "Printer Feature"
+        },
+        {
+          "key": "printertechnology",
+          "values": [
+            "Inkjet"
+          ],
+          "displayName": "Printer Type"
+        },
+        {
+          "key": "producttype1",
+          "values": [
+            "Printers"
+          ],
+          "displayName": "Product Type"
+        },
+        {
+          "key": "truecolour",
+          "values": [
+            "White & Grey"
+          ],
+          "displayName": "Colour"
+        }
+      ],
+      "permanentOos": false,
+      "defaultParentCategory": {
+        "id": "80000443",
+        "name": "Printers"
+      }
+    }
+  ],
+  "facets": [
+    {
+      "dimensionName": "childSKUs.hideOutOfStock",
+      "name": "Stock Availability",
+      "type": "Single",
+      "tooltip": "Stock Availability",
+      "filterTypes": [
+        "AlwaysShow"
+      ],
+      "details": [
+        {
+          "facetId": "/show-in-stock-items-only/_/N-1z0wxdt",
+          "label": "Show in stock items only",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "price",
+      "name": "Price",
+      "type": "Single",
+      "tooltip": "Price",
+      "filterTypes": [
+        "AlwaysShow"
+      ],
+      "details": [
+        {
+          "facetId": "/price=180-190?price=180-190&priceBands=180-190,200-210",
+          "label": "£180 - £190",
+          "qty": "1",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/price=200-210?price=200-210&priceBands=180-190,200-210",
+          "label": "£200 - £210",
+          "qty": "1",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "productRating.averageRating",
+      "name": "Avg. Review Rating",
+      "type": "Single",
+      "tooltip": "Avg. Review Rating",
+      "filterTypes": [
+        "AlwaysShow"
+      ],
+      "details": [
+        {
+          "facetId": "/3-4/_/N-vfj",
+          "label": "3-4",
+          "qty": "1",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    },
+    {
+      "dimensionName": "childSKUs.deliveryGroup",
+      "name": "Delivery Options",
+      "type": "Single",
+      "tooltip": "Delivery Options",
+      "filterTypes": [
+        "AlwaysShow"
+      ],
+      "details": [
+        {
+          "facetId": "/next-day-delivery/_/N-1z0ktrf",
+          "label": "Next Day Delivery",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/standard-uk-delivery/_/N-1z0ktrh",
+          "label": "Standard UK Delivery",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/click-collect/_/N-1z0ktrg",
+          "label": "Click & Collect",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/collect+-from-a-local-shop/_/N-1z0lb7g",
+          "label": "Collect+ from a local shop",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/morning-delivery/_/N-naty",
+          "label": "Morning Delivery",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        },
+        {
+          "facetId": "/evening-delivery-within-m25/_/N-nfvh",
+          "label": "Evening delivery within M25",
+          "qty": "2",
+          "color": "",
+          "colorSwatchUrl": "",
+          "isSelected": "false"
+        }
+      ]
+    }
+  ],
+  "results": 2,
+  "pagesAvailable": 1,
+  "crumbs": [
+    {
+      "displayName": "Search results ‘officerent’",
+      "type": "SEARCH",
+      "clickable": "false"
+    }
+  ],
+  "pageInformation": {
+    "title": "\"officerent\" results | John Lewis & Partners",
+    "heading": "officerent",
+    "description": "Shop for \"officerent\" from John Lewis & Partners. Free UK mainland delivery when you spend £50 and over.",
+    "noIndex": false,
+    "noFollow": false
+  },
+  "correctedSearchTerm": "officejet",
+  "baseFacetId": ""
+}
